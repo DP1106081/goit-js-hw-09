@@ -1,1 +1,1 @@
-{"version":3,"file":"2-form.js","names":[],"sources":["../src/js/2-form.js"],"sourcesContent":["console.log('dcvdvdvdv');\n"],"mappings":"wFAAA,QAAQ,IAAI,WAAW"}
+{"version":3,"file":"2-form.js","names":[],"sources":["../src/js/2-form.js"],"sourcesContent":["console.log('dcvdvdvdv');\nconsole.log('aaaaaaaa');\n"],"mappings":"wFAAA,QAAQ,IAAI,WAAW,EACvB,QAAQ,IAAI,UAAU"}
