@@ -14,5 +14,5 @@
           />
         </a>
       </li>
-    `).join(``)}var i=r(t);n.insertAdjacentHTML(`beforeend`,i),new e(`.gallery a`,{captionsData:`alt`,captionsPosition:`bottom`,captionDelat:250});
+    `).join(``)}var i=r(t);n.insertAdjacentHTML(`beforeend`,i),new e(`.gallery a`,{captionsData:`alt`,captionsPosition:`bottom`,captionDelay:250});
 //# sourceMappingURL=1-gallery.js.map
